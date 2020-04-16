@@ -24,10 +24,10 @@ namespace WindowsFormsApp16
             ekle.Show();
 
             kitap_ekleme_islemleri ktp;
-            String kad = Convert.ToString(txt_kitapad);
-            String k_sayfa= Convert.ToString(txt_kitapsayfasi);
-            String k_basımy= Convert.ToString(txt_basimyili);
-            String k_yazar = Convert.ToString(txt_kitapyazari);
+            string kad = txt_kitapad.Text;
+            string k_sayfa= txt_kitapsayfasi.Text;
+            string k_basımy= txt_basimyili.Text;
+            string k_yazar = txt_kitapyazari.Text;
 
             ktp.kitap_ekle(kad);
 
