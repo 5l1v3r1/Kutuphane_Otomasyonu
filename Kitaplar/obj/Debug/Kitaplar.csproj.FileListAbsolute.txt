@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\bin\Debug\Kitaplar.dll
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\bin\Debug\Kitaplar.pdb
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\obj\Debug\Kitaplar.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\obj\Debug\Kitaplar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\obj\Debug\Kitaplar.dll
+C:\Users\Hp\source\repos\WindowsFormsApp16\Kitaplar\obj\Debug\Kitaplar.pdb

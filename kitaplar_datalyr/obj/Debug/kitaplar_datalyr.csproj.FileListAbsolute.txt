@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\obj\Debug\kitaplar_datalyr.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\obj\Debug\kitaplar_datalyr.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\bin\Debug\kitaplar_datalyr.dll
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\bin\Debug\kitaplar_datalyr.pdb
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\obj\Debug\kitaplar_datalyr.dll
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\obj\Debug\kitaplar_datalyr.pdb
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\bin\Debug\Kitaplar.dll
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\bin\Debug\Kitaplar.pdb
+C:\Users\Hp\source\repos\WindowsFormsApp16\kitaplar_datalyr\obj\Debug\kitaplar_datalyr.csproj.CopyComplete
